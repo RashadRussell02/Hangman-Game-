@@ -1,18 +1,28 @@
-# Hangman HW
- Fun to hangman game made with React
+# Hangman Game
+An engaging and interactive Hangman game built using React.
 
-## Available Scripts
+## How The Game works 
 
-In the project directory, you can run:
+### **Step 1: Node.js**
+Node must be installed to run and complete the project 
 
-### `npm install`
-Installs required dependencies
+[Download Node.js here](https://nodejs.org/)
 
+### **Step 2: Clone Your  Repositary**
+```sh
+https://github.com/RashadRussell02/Hangman-Game-
+```
+### **Step 3 Install all The required Dependencies** 
+Run this command in your terminal: 
+```sh
+cd Hangman-Game-
+npm install
+```
+### **Step 4 Start the Game**
+```sh
 ### `npm start`
+```
+## This is how it should look 
+https://github.com/RashadRussell02/Hangman-Game-/blob/main/Hangmanvideo.jpeg
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
